@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "johnpaulinso/ender_bow_standby"
+        "layer0": "superbows/ender_bow_standby"
     },
      "display": {
         "thirdperson_righthand": {
