@@ -30,25 +30,25 @@
         {"predicate": {"pulling":1,"pull": 0.65},"model": "item/bow_pulling_1"},
         {"predicate": {"pulling":1,"pull": 0.9},"model": "item/bow_pulling_2"},
         
-        {"predicate": {"pulling":0, "custom_model_data":101},"model": "johnpaulinso/tnt_bow_standby"},
-        {"predicate": {"pulling":1, "custom_model_data":10},"model": "johnpaulinso/tnt_bow_pulling_0"},
-        {"predicate": {"pulling":1, "custom_model_data":101,"pull": 0.65},"model": "johnpaulinso/tnt_bow_pulling_1"},
-        {"predicate": {"pulling":1, "custom_model_data":101,"pull": 0.9},"model": "johnpaulinso/tnt_bow_pulling_2"},
+        {"predicate": {"pulling":0, "custom_model_data":101},"model": "superbows/tnt_bow_standby"},
+        {"predicate": {"pulling":1, "custom_model_data":10},"model": "superbows/tnt_bow_pulling_0"},
+        {"predicate": {"pulling":1, "custom_model_data":101,"pull": 0.65},"model": "superbows/tnt_bow_pulling_1"},
+        {"predicate": {"pulling":1, "custom_model_data":101,"pull": 0.9},"model": "superbows/tnt_bow_pulling_2"},
         
-        {"predicate": {"pulling":0, "custom_model_data":102},"model": "johnpaulinso/freezing_bow_standby"},
-        {"predicate": {"pulling":1, "custom_model_data":102},"model": "johnpaulinso/freezing_bow_pulling_0"},
-        {"predicate": {"pulling":1, "custom_model_data":102,"pull": 0.65},"model": "johnpaulinso/freezing_bow_pulling_1"},
-        {"predicate": {"pulling":1, "custom_model_data":102,"pull": 0.9},"model": "johnpaulinso/freezing_bow_pulling_2"},
+        {"predicate": {"pulling":0, "custom_model_data":102},"model": "superbows/freezing_bow_standby"},
+        {"predicate": {"pulling":1, "custom_model_data":102},"model": "superbows/freezing_bow_pulling_0"},
+        {"predicate": {"pulling":1, "custom_model_data":102,"pull": 0.65},"model": "superbows/freezing_bow_pulling_1"},
+        {"predicate": {"pulling":1, "custom_model_data":102,"pull": 0.9},"model": "superbows/freezing_bow_pulling_2"},
         
-        {"predicate": {"pulling":0, "custom_model_data":103},"model": "johnpaulinso/lightning_bow_standby"},
-        {"predicate": {"pulling":1, "custom_model_data":103},"model": "johnpaulinso/lightning_bow_pulling_0"},
-        {"predicate": {"pulling":1, "custom_model_data":103,"pull": 0.65},"model": "johnpaulinso/lightning_bow_pulling_1"},
-        {"predicate": {"pulling":1, "custom_model_data":103,"pull": 0.9},"model": "johnpaulinso/lightning_bow_pulling_2"},
+        {"predicate": {"pulling":0, "custom_model_data":103},"model": "superbows/lightning_bow_standby"},
+        {"predicate": {"pulling":1, "custom_model_data":103},"model": "superbows/lightning_bow_pulling_0"},
+        {"predicate": {"pulling":1, "custom_model_data":103,"pull": 0.65},"model": "superbows/lightning_bow_pulling_1"},
+        {"predicate": {"pulling":1, "custom_model_data":103,"pull": 0.9},"model": "superbows/lightning_bow_pulling_2"},
        
-        {"predicate": {"pulling":0, "custom_model_data":104},"model": "johnpaulinso/ender_bow_standby"},
-        {"predicate": {"pulling":1, "custom_model_data":104},"model": "johnpaulinso/ender_bow_pulling_0"},
-        {"predicate": {"pulling":1, "custom_model_data":104,"pull": 0.65},"model": "johnpaulinso/ender_bow_pulling_1"},
-        {"predicate": {"pulling":1, "custom_model_data":104,"pull": 0.9},"model": "johnpaulinso/ender_bow_pulling_2"}
+        {"predicate": {"pulling":0, "custom_model_data":104},"model": "superbows/ender_bow_standby"},
+        {"predicate": {"pulling":1, "custom_model_data":104},"model": "superbows/ender_bow_pulling_0"},
+        {"predicate": {"pulling":1, "custom_model_data":104,"pull": 0.65},"model": "superbows/ender_bow_pulling_1"},
+        {"predicate": {"pulling":1, "custom_model_data":104,"pull": 0.9},"model": "superbows/ender_bow_pulling_2"}
     ]
 }
 
