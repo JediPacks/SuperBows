@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "johnpaulinso/lightning_bow_pulling_2"
+        "layer0": "superbows/lightning_bow_pulling_2"
     },
      "display": {
         "thirdperson_righthand": {
